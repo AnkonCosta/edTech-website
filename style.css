@@ -1,4 +1,31 @@
-/* .carousel-item {
-    background: black;
-    position: relative;
-} */
+.img-opacity {
+    filter: brightness(40%);
+}
+
+.fs-vw {
+    font-size: 5vw;
+}
+
+.ptop-1 {
+    padding: 100px 0px;
+}
+
+.orange {
+    color: orange;
+}
+
+.gray {
+    color: rgb(186, 184, 184);
+}
+
+.bg-gray {
+    background-color: rgb(71, 71, 71);
+}
+
+.py {
+    padding: 80px 0px;
+}
+
+.vw-1 {
+    font-size: 1.5vw;
+}
